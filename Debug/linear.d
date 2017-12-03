@@ -1,0 +1,1 @@
+linear.d: ../linear.cpp
